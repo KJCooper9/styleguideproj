@@ -1,0 +1,61 @@
+
+body {background-color: antiquewhite;}
+
+.container {border: 2px solid black;
+padding: 10px;
+margin: 10px auto;
+}
+
+div {display: block;}
+
+.challengeproject {font-family:'Times New Roman', Times, serif; text-align: center;font-size: 60px}
+h1 {font-size: 50px; text-align: center;}
+
+.Colors { color: gray ;font-size: 40px; text-align: center;
+
+}
+.c1 {background-color: black; color: whitesmoke; display: inline-block;padding: 60px;
+    margin: 10px auto;text-align: center;}
+
+.c2 {background-color:darkblue; color:whitesmoke;display: inline-block;padding: 60px;
+    margin: 10px auto;text-align: center;}
+.c3{background-color: darkgreen; color: whitesmoke;display: inline-block;padding: 60px;
+    margin: 10px auto;text-align: center;}
+.c4{background-color:purple; color:whitesmoke;display: inline-block;padding: 60px;
+    margin: 10px auto;text-align: center;}
+
+.fontpanel {width: 45%;
+    display: inline-block;}
+
+.Fonts {color: gray ;font-size: 40px; text-align: center;
+
+}
+.f1{font-family: 'Poppins', sans-serif;padding: 10px;
+    margin: 10px auto;font-size: 20px;text-align: center;}
+p {font-family: 'Poppins', sans-serif;padding: 10px;;
+    margin: 10px auto;text-align: center;}
+.f2 {font-family: 'Roboto Condensed', sans-serif;padding: 10px;
+    margin: 10px auto; font-size: 20px;text-align: center;}
+.p2{font-family: 'Roboto Condensed', sans-serif;padding: 10px;;
+    margin: 10px auto;text-align: center;}
+.f3{font-family: 'Caveat', cursive;font-size: 27px;text-align: center;}
+.p3{font-family: 'Caveat', sans-serif;padding: 10px;text-align: center;
+    margin: 10px auto; font-size: 20px}
+
+
+.style {width: 45%;
+    display: inline-block;}
+.Styles {color: gray ;font-size: 40px; text-align: center;
+
+}
+
+h2 {text-align: center; font-size: 30px; font-family:'Roboto Condensed', sans-serif;}
+h3 {text-align: center; font-size: 20px; font-family: 'Caveat', sans-serif;}
+.stylepanel{display:contents; align: center;}
+
+footer {text-align: center; border: 2px solid black;
+    padding: 10px;
+    margin: 10px auto;
+
+
+}
